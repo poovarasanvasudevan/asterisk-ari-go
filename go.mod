@@ -1,4 +1,4 @@
-module github.com/quintex-dev/asterisk-ari-go
+module github.com/poovarasanvasudevan/asterisk-ari-go
 
 go 1.16
 
